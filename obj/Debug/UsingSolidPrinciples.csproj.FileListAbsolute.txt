@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\UsingSolidPrinciples\UsingSolidPrinciples\bin\Debug\UsingSolidPrinciples.exe.config
+C:\Users\tmcar\source\repos\UsingSolidPrinciples\UsingSolidPrinciples\bin\Debug\UsingSolidPrinciples.exe
+C:\Users\tmcar\source\repos\UsingSolidPrinciples\UsingSolidPrinciples\bin\Debug\UsingSolidPrinciples.pdb
+C:\Users\tmcar\source\repos\UsingSolidPrinciples\UsingSolidPrinciples\obj\Debug\UsingSolidPrinciples.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\UsingSolidPrinciples\UsingSolidPrinciples\obj\Debug\UsingSolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\UsingSolidPrinciples\UsingSolidPrinciples\obj\Debug\UsingSolidPrinciples.exe
+C:\Users\tmcar\source\repos\UsingSolidPrinciples\UsingSolidPrinciples\obj\Debug\UsingSolidPrinciples.pdb
